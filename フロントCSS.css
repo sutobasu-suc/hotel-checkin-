@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  padding: 1em;
+}
+form input {
+  margin: 5px;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  border: 1px solid #ccc;
+  padding: 6px;
+  text-align: center;
+}
+tr.checked-in {
+  background-color: #dff0d8;
+}
